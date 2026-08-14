@@ -2,10 +2,10 @@
   "name": "homework15",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://Polymer-505.github.io/HW15_frontend4",
+  "homepage": "https://github.com/Polymer-505/HW15_frontend4/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url ./",
+    "build": "parcel build src/index.html --public-url .",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
