@@ -1,0 +1,14 @@
+.country {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.country-input {
+  border-width: 1px;
+  border-color: #c9c7c7;
+  border-radius: 4px;
+  width: 430px;
+  padding: 10px;
+}
+/*# sourceMappingURL=Homework15.77a9bc14.css.map */
